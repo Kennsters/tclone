@@ -19,7 +19,7 @@ function Header() {
             />
 
             <IconButton>
-                <ChatIcon fontsize="large" className="header_icon" />
+                <ChatIcon fontSize="large" className="header_icon" />
             </IconButton>
         </div>
     )
